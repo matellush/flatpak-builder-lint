@@ -6726,7 +6726,7 @@
         }
     },
     "org.jabref.jabref": {
-        "stable": {
+        "*": {
             "finish-args-flatpak-spawn-access": "the app predates this linter rule",
             "finish-args-home-filesystem-access": "Predates the linter rule"
         }
